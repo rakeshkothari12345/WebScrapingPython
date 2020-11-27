@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-products_to_track_trygitpull = [
+products_to_track_trygitpull2 = [
     {
         "product_url": "https://www.amazon.in/Samsung-Galaxy-Ocean-Blue-Storage/dp/B07HGJKDQL?ref_=Oct_s9_apbd_orecs_hd_bw_b1yBwdz&pf_rd_r=55ER8G6AQWTCQRMB1Q3V&pf_rd_p=94baa1a4-2f06-554d-82db-8b9866e02276&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=1805560031&tag=coa_in-21",
         "name": "Samsung M31",
